@@ -1,7 +1,5 @@
 # efrei-mdfs-python-alexandry
-:busts_in_silhouette: Amélie NGUYEN
-
-Karim AIT EL DJOUDI
+:busts_in_silhouette: Amélie NGUYEN & Karim AIT EL DJOUDI
 
 :computer: Projet : API 
 
